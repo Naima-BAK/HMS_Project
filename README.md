@@ -1,5 +1,5 @@
 
-<p align="center">#[Desktop]](#)# [app]](#) #[hotel]](#) #[management](#)
+#<p align="center">[Desktop app hotel management](#)
   
   
   
