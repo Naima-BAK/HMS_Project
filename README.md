@@ -1,5 +1,4 @@
 # [desktop app hotel management](#)
-# [----------------------------](#)
 
 
 
